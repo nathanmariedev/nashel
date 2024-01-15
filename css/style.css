@@ -21,7 +21,7 @@ html, body {
 }
 
 .links {
-    width: 100%;
+    width: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -39,7 +39,8 @@ html, body {
 }
 
 .links a img {
-    max-width: 100%;
+    max-width: 50vh;
+    width: auto;
 }
 
 .listen {
